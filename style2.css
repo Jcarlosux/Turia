@@ -1,0 +1,161 @@
+.container-fluid{
+    padding: 0 !important;
+}
+
+
+
+
+.caja{
+    width: 100%;
+    height: 95vh;
+    display: flex;
+    padding:70px;
+    align-items: center;
+    background-image: url(/img/371A9831.webp);
+    background-size: cover;
+    background-position: center;    
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.292);
+}
+.caja-texto{
+    color: #fff;
+    text-align: start;
+    font-size: 52px;
+}
+.btn-border{
+    width: auto;
+    margin-top: 30px;
+    padding: 10px;
+    font-size: 16px;
+    background-color: rgba(0, 0, 0, 0.358);
+    border: 1px solid;
+    letter-spacing: 4px;
+}
+.btn-border:hover{
+    background-color: #ffffff3e;
+    border: 1px solid #000;
+}
+
+.caja-empresa{
+    background-image: url(/img/angel-sect.webp);
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.776);
+    height: auto;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    background-position: center;    
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+.caja-empresa-text{
+    color: #fff;
+    padding: 70px;
+}
+#text-1{
+    font-size: 36px;
+}
+#text-2{
+    font-size: 15px;
+}
+
+.third{
+    text-align: center;
+    padding: 70px;
+}
+.im{
+    height: 210px;
+}
+.im-des{
+    margin-top: 15px;
+    margin-bottom: 50px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+#third-title{
+    margin-bottom: 30px;
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: 1px;
+
+}
+
+#four{
+    padding: 70px;
+    align-items: center;
+    text-align: center;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.589);
+    background-image: url(img/motor-de-camion.webp);
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    background-position: center;    
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#four-title{
+    margin-bottom: 30px;
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #fff;
+
+}
+
+.img-four{
+    margin-bottom: 40px;
+}
+
+
+  form input, form textarea{
+    display: block;    
+    } 
+    .for{
+        padding: 50px;
+    }
+    .lab-i{
+        font-size: 16px;
+        font-weight: 400;
+    }
+    
+    .inp-i{
+        height: 45px;
+        width: 100%;
+        border-radius: 5px;
+        border: .5px solid rgba(52, 51, 51, 0.493);
+        background-color: rgba(197, 199, 179, 0.098);
+    }
+
+    .inp-t{
+        height: 150px;
+        width: 100%;
+        border-radius: 5px;
+        border: .5px solid rgba(52, 51, 51, 0.493);
+        background-color: rgba(197, 199, 179, 0.098);
+    }
+    .btn-enviar{
+        align-items: center;
+        width: auto;
+        margin-top: 30px;
+        padding: 15px;
+        padding-left: 30px;
+        padding-right: 30px;
+        font-size: 12px;
+        background-color: #396fb7;
+        color: #fff;
+        border: 1px solid;
+        letter-spacing: 8px;
+    }
+    .btn-enviar:hover{
+        background-color: rgb(56, 54, 54);
+    }
+
+    .btn-enviar-text{
+    text-align: center;
+    }
